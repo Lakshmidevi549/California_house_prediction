@@ -5,3 +5,4 @@ pandas
 jinja2
 python-multipart
 gunicorn
+scikit-learn
